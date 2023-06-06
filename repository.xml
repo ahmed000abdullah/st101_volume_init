@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure101-repository language="dotnet" version="21306">
+  <xs-configuration>
+    <entry metric="Tangled" scope="design" threshold="0" color="153,53,0" />
+    <entry metric="Fat" scope="design" threshold="120" color="255,153,0" />
+    <entry metric="Fat" scope="leaf namespace" threshold="120" color="0,153,153" />
+    <entry metric="Fat" scope="class" threshold="120" color="255,153,153" />
+    <entry metric="Fat" scope="method" threshold="15" color="51,255,51" />
+  </xs-configuration>
+  <!--Note: All date strings are stored in short US format e.g. 2/1/06 for 1st Feb 2006-->
+  <project name="Unit.InstrumentState" dir="Unit_InstrumentState_4" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="12/15/22 4:10 PM" detail="true" good="true" size="315" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="12/16/22 2:43 PM" detail="true" good="true" size="315" />
+  </project>
+  <project name="Unit.UiApi.Messages" dir="Unit_UiApi_Messages" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="12/15/22 4:27 PM" detail="true" good="true" size="1" />
+  </project>
+  <project name="Unit.WorkOrderManagement" dir="Unit_WorkOrderManagement" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="12/16/22 2:17 PM" detail="true" good="true" size="85" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="1/11/23 1:05 AM" detail="true" good="true" size="88" />
+    <snapshot label="1.0.2" location="1_0_2" timestamp="1/16/23 1:05 AM" detail="true" good="true" size="88" />
+    <snapshot label="1.0.3" location="1_0_3" timestamp="1/19/23 1:05 AM" detail="true" good="true" size="88" />
+  </project>
+  <project name="Unit.ProcessingModule" dir="Unit_ProcessingModule" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="12/16/22 3:04 PM" detail="true" good="true" size="739" />
+  </project>
+  <project name="Unit.RunPlanning" dir="Unit_RunPlanning" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="12/30/22 3:49 PM" detail="true" good="true" size="105" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="1/9/23 11:10 AM" detail="true" good="true" size="105" />
+    <snapshot label="1.0.2" location="1_0_2" timestamp="1/11/23 1:10 AM" detail="true" good="true" size="104" />
+    <snapshot label="1.0.3" location="1_0_3" timestamp="1/12/23 1:10 AM" detail="true" good="true" size="104" />
+    <snapshot label="1.0.4" location="1_0_4" timestamp="1/13/23 1:10 AM" detail="true" good="true" size="104" />
+    <snapshot label="1.0.5" location="1_0_5" timestamp="1/16/23 1:10 AM" detail="true" good="true" size="104" />
+    <snapshot label="1.0.6" location="1_0_6" timestamp="1/17/23 1:10 AM" detail="true" good="true" size="104" />
+    <snapshot label="1.0.7" location="1_0_7" timestamp="1/18/23 1:10 AM" detail="true" good="true" size="104" />
+    <snapshot label="1.0.8" location="1_0_8" timestamp="1/19/23 1:10 AM" detail="true" good="true" size="104" />
+  </project>
+  <project name="Unit.RunResourceManagement" dir="Unit_RunResourceManagement" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="1/5/23 11:48 PM" detail="true" good="true" size="77" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="1/11/23 1:15 AM" detail="true" good="true" size="77" />
+    <snapshot label="1.0.2" location="1_0_2" timestamp="1/12/23 1:15 AM" detail="true" good="true" size="77" />
+    <snapshot label="1.0.3" location="1_0_3" timestamp="1/16/23 1:15 AM" detail="true" good="true" size="77" />
+    <snapshot label="1.0.4" location="1_0_4" timestamp="1/17/23 1:15 AM" detail="true" good="true" size="77" />
+  </project>
+  <project name="Unit.SoftwareUpdate" dir="Unit_SoftwareUpdate" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="1/6/23 12:01 AM" detail="true" good="true" size="162" />
+  </project>
+  <project name="Unit.RunManagement" dir="Unit_RunManagement" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="1/6/23 12:09 AM" detail="true" good="true" size="40" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="1/10/23 11:36 AM" detail="true" good="true" size="40" />
+    <snapshot label="1.0.2" location="1_0_2" timestamp="1/10/23 11:38 AM" detail="true" good="true" size="40" />
+    <snapshot label="1.0.3" location="1_0_3" timestamp="1/10/23 11:40 AM" detail="true" good="true" size="40" />
+    <snapshot label="1.0.4" location="1_0_4" timestamp="1/10/23 12:11 PM" detail="true" good="true" size="40" />
+    <snapshot label="1.0.5" location="1_0_5" timestamp="1/11/23 1:00 AM" detail="true" good="true" size="40" />
+  </project>
+  <project name="Unit.DataManagerGateway" dir="Unit_DataManagerGateway" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="1/6/23 12:16 AM" detail="true" good="true" size="197" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="1/11/23 1:20 AM" detail="true" good="true" size="197" />
+    <snapshot label="1.0.2" location="1_0_2" timestamp="1/17/23 1:20 AM" detail="true" good="true" size="198" />
+  </project>
+  <project name="Unit.Maintenance" dir="Unit_Maintenance" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="1/6/23 12:23 AM" detail="true" good="true" size="146" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="1/9/23 11:15 AM" detail="true" good="true" size="146" />
+    <snapshot label="1.0.2" location="1_0_2" timestamp="1/11/23 1:25 AM" detail="true" good="true" size="146" />
+    <snapshot label="1.0.3" location="1_0_3" timestamp="1/18/23 1:25 AM" detail="true" good="true" size="146" />
+  </project>
+  <project name="Unit.WorkflowManagement" dir="Unit_WorkflowManagement" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="1/8/23 8:47 PM" detail="true" good="true" size="648" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="1/11/23 9:33 PM" detail="true" good="true" size="648" />
+    <snapshot label="1.0.2" location="1_0_2" timestamp="1/13/23 1:38 AM" detail="true" good="true" size="666" />
+    <snapshot label="1.0.3" location="1_0_3" timestamp="1/16/23 1:38 AM" detail="true" good="true" size="667" />
+    <snapshot label="1.0.4" location="1_0_4" timestamp="1/17/23 1:38 AM" detail="true" good="true" size="667" />
+    <snapshot label="1.0.5" location="1_0_5" timestamp="1/18/23 1:38 AM" detail="true" good="true" size="670" />
+    <snapshot label="1.0.6" location="1_0_6" timestamp="1/19/23 9:16 PM" detail="true" good="true" size="739" />
+    <snapshot label="1.0.7" location="1_0_7" timestamp="2/6/23 8:32 AM" detail="true" good="true" size="739" />
+    <snapshot label="1.0.8" location="1_0_8" timestamp="2/6/23 12:09 PM" detail="true" good="true" size="689" />
+  </project>
+  <project name="Unit.TransferModule" dir="Unit_TransferModule" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="1/8/23 9:04 PM" detail="true" good="true" size="441" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="1/11/23 9:42 PM" detail="true" good="true" size="441" />
+    <snapshot label="1.0.2" location="1_0_2" timestamp="1/13/23 1:43 AM" detail="true" good="true" size="442" />
+  </project>
+  <project name="Unit.AnalyticModule" dir="Unit_AnalyticModule" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="1/8/23 9:14 PM" detail="true" good="true" size="112" />
+    <snapshot label="1.0.1" location="1_0_1" timestamp="1/11/23 9:49 PM" detail="true" good="true" size="112" />
+    <snapshot label="1.0.2" location="1_0_2" timestamp="1/13/23 1:25 AM" detail="true" good="true" size="112" />
+    <snapshot label="1.0.3" location="1_0_3" timestamp="2/6/23 12:37 PM" detail="true" good="true" size="118" />
+  </project>
+  <project name="Unit.DataCollection" dir="Unit_DataCollection" baselineSnapshot="default" version="21306">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="1/8/23 9:25 PM" detail="true" good="true" size="113" />
+  </project>
+</structure101-repository>
